@@ -1,0 +1,19 @@
+# Core libraries
+numpy
+pandas
+matplotlib
+seaborn
+
+# Time series analysis
+statsmodels
+pandas-datareader
+yfinance
+# Machine Learning
+scikit-learn
+xgboost
+
+# Jupyter Notebook (optional, for interactive work)
+notebook
+
+# Optional - model saving/loading
+joblib
