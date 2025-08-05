@@ -10,8 +10,6 @@ pandas-datareader
 yfinance
 # Machine Learning
 scikit-learn
-xgboost
-
 # Jupyter Notebook (optional, for interactive work)
 notebook
 
